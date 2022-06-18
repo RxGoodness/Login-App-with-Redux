@@ -9,7 +9,7 @@ function App() {
       <Profile/>
       <Login/>
       <ChangeColor/>
-      Hello world!
+      Hello world
     </div>
   );
 }
