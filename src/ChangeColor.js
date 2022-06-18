@@ -14,7 +14,7 @@ function ChangeColor() {
         }}
         />
         <button
-        onClick={()=>{
+         onClick={()=>{
             dispatch(changeColor(color));
         }}
         >
